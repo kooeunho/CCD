@@ -13,8 +13,6 @@ import tensorflow as tf
 
 import os
 
-import function as fn
-
 from PyEMD import EMD, EEMD
 
 from vmdpy import VMD
